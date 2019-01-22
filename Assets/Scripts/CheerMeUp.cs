@@ -11,8 +11,8 @@ public class CheerMeUp : MonoBehaviour
 	void Start ()
 	{
 		//Load cheers from memory (Let 30 cheers in local)
-		localCheers = new string[26];
-
+		localCheers = new string[33];
+		//Joemag
 		localCheers[0] = "Eres genial";
 		localCheers[1] = "Tienes muchas cualidades buenas";
 		localCheers[2] = "Eres una persona con mucho valor";
@@ -23,7 +23,6 @@ public class CheerMeUp : MonoBehaviour
 		localCheers[7] = "Intenta algo diferente";
 		localCheers[8] = "Retate a ti mismo";
 		localCheers[9] = "Aceptate como eres";
-
 		localCheers[10] = "Quiere a tu familia";
 		localCheers[11] = "La vida en verdad es bella";
 		localCheers[12] = "No estas solo";
@@ -40,6 +39,15 @@ public class CheerMeUp : MonoBehaviour
 		localCheers[23] = "Antes de hablar, primero escucha";
 		localCheers[24] = "Conoce tus limites";
 		localCheers[25] = "Visita a tus amigos";
+
+		//Cheerfull people
+		localCheers[26] = "No esperes a que estés seguro, toma los riesgos";
+		localCheers[27] = "Échale ganas, las cervezas no se pagan solas";
+		localCheers[28] = "Los exitos vienen de los fracasos";
+		localCheers[29] = "Podría ser peor";
+		localCheers[30] = "Se paciente";
+		localCheers[31] = "Cuando te molesten por ser diferente, recuerda que ellos son iguales";
+		localCheers[32] = "No dejes que tu felicidad dependa de alguien más";
 
 		//Load cheers from server (async from heroku)
 		//Set array of cheers
