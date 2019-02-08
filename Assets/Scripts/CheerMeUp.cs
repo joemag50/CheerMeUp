@@ -58,6 +58,23 @@ public class CheerMeUp : MonoBehaviour
 		localCheersSpanish.Add("La clave del cambio es liberarse del miedo");
 		localCheersSpanish.Add("La barrera más grande del éxito es el miedo a la derrota");
 		localCheersSpanish.Add("Por muy larga que sea la tormenta, el sol siempre vuelve a brillar entre las nubes");
+		localCheersSpanish.Add("Cada día es un entrenamiento de la vida");
+		localCheersSpanish.Add("Cada día eres una mejor persona");
+		localCheersSpanish.Add("Levantate y dale!");
+
+		localCheersSpanish.Add("La felicidad es en gozar de buena salud, dormir sin miedo y despertar sin angustia.");
+		localCheersSpanish.Add("Cada día es el mejor de año");
+		localCheersSpanish.Add("Usted ha creado su depresión, nadie se la regaló. Por lo tanto destruya su depresión");
+		localCheersSpanish.Add("Felicidad no es hacer lo que uno quiere sino querer lo que uno hace");
+		localCheersSpanish.Add("Donde una puerta se cierra, otra se abre");
+		localCheersSpanish.Add("Si supiera que el mundo se acaba mañana, yo, hoy todavía, plantaría un árbol");
+		localCheersSpanish.Add("En cada amanecer hay un vivo poema de esperanza, y al acostarnos, pensemos que amanecerá");
+
+		localCheersSpanish.Add("Vales mucho como persona");
+		localCheersSpanish.Add("Cada uno tiene una armadura, no permitas que la tristeza destruya tu protección");
+		localCheersSpanish.Add("A veces no aprecian lo mejor, recuerda que el amanecer es bello y muy pocos lo ven");
+		localCheersSpanish.Add("En medio de mucha obscuridad hay una luz que alumbra tu vida");
+		localCheersSpanish.Add("Se único, eres especial");
 
 		localCheersEnglish.Add ("You're great");
 		localCheersEnglish.Add ("You have many good qualities");
@@ -99,6 +116,23 @@ public class CheerMeUp : MonoBehaviour
 		localCheersEnglish.Add ("The key to change is freedom from fear");
 		localCheersEnglish.Add ("The biggest barrier to success is fear of defeat");
 		localCheersEnglish.Add ("No matter how long the storm is, the sun always shines again among the clouds");
+		localCheersEnglish.Add ("Every day is a life training");
+		localCheersEnglish.Add ("Every day you are a better person");
+		localCheersEnglish.Add ("Get up and give it up!");
+
+		localCheersEnglish.Add ("Happiness is in enjoying good health, sleeping without fear and waking up without anguish");
+		localCheersEnglish.Add ("Every day is the best of the year");
+		localCheersEnglish.Add ("You have created your depression, nobody gave it to you, so destroy your depression");
+		localCheersEnglish.Add ("Happiness is not doing what you want but wanting what you do");
+		localCheersEnglish.Add ("Where one door closes, another opens");
+		localCheersEnglish.Add ("If I knew that the world ends tomorrow, I, today still, would plant a tree");
+		localCheersEnglish.Add ("At each dawn there is a living poem of hope, and when we go to bed, we think it will dawn");
+
+		localCheersEnglish.Add ("You're worth a lot as a person");
+		localCheersEnglish.Add ("Everyone has an armor, do not let sadness destroy your protection");
+		localCheersEnglish.Add ("Sometimes they do not appreciate the best, remember that the sunrise is beautiful and very few see it");
+		localCheersEnglish.Add ("In the midst of a lot of darkness there is a light that illuminates your life");
+		localCheersEnglish.Add ("Be unique, you are special");
 		//Load cheers from server (async from heroku)
 		//Set array of cheers
 	}
